@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = Backbone.View.extend({
     tagName: 'ul',
     className: 'user-view',
